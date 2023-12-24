@@ -1,0 +1,376 @@
+#body{
+    margin: 0;
+}
+
+
+
+
+
+#pusher{
+    width: 30.1875rem;
+    color: #FFF;
+
+text-align: center;
+font-family: Lato;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -0.02475rem;
+}
+
+.names{
+    width: 100%;
+    overflow: hidden;
+}
+
+
+
+.form{
+    width: 45.75rem;
+    height: 47.6875rem;
+    flex-shrink: 0;
+    margin-top: 6rem;
+    padding: 1.25rem;
+    border-radius: 0.375rem;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.05), 0px 15px 35px 0px rgba(43, 64, 78, 0.10);
+}
+
+#checkout{
+    width: 10.0625rem;
+    height: 3.375rem;
+    flex-shrink: 0;
+    color: #1D2C3C;
+
+   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   font-family: Lato;
+   font-size: 1.875rem;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+}
+
+#basic-info{
+    width: 13.75rem;
+    height: 2rem;
+    flex-shrink: 0;
+    color: #1D2C3C;
+
+    font-family: Lato;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.01rem;
+}
+
+#first-name{
+    width: 11.6875rem;
+    color: #1D2C3C;
+
+   font-family: Lato;
+   font-size: 0.875rem;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+
+}
+
+#last-name{
+    width: 14.1875rem;
+    color: #1D2C3C;
+
+   font-family: Lato;
+   font-size: 0.875rem;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+
+}
+
+
+.name-input{
+    width: 14.1875rem;
+    height: 2.25rem;
+    flex-shrink: 0;
+    border-radius: 0.25rem;
+    background: #EDEFF2;
+}
+
+#email{
+    width: 11.6875rem;
+    color: #1D2C3C;
+   font-family: Lato;
+   font-size: 0.875rem;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+
+}
+
+#emailinput{
+    width: 23.125rem;
+    height: 2.25rem;
+    flex-shrink: 0;
+    border-radius: 0.3125rem;
+    background: #EDEFF2;
+}
+
+#payinfo{
+    width: 15.375rem;
+    color: #1D2C3C;
+   font-family: Lato;
+   font-size: 1.125rem;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   letter-spacing: -0.01rem;
+}
+
+#creditcard{
+    width: 11.6875rem;
+    color: #1D2C3C;
+
+   font-family: Lato;
+   font-size: 0.875rem;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+}
+
+.cardinput{
+    width: 30.1875rem;
+    height: 2.25rem;
+    flex-shrink: 0;
+    border-radius: 0.25rem;
+    background: #EDEFF2;
+}
+
+#button{
+    width: 30.1875rem;
+    height: 3.25rem;
+   flex-shrink: 0;
+   border-radius: 0.3125rem;
+   background: #038E7D;
+}
+
+#help{
+    width: 18.9375rem;
+    height: 1rem;
+    flex-shrink: 0;
+    color: #1D2C3C;
+
+    font-family: Lato;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.00063rem;
+    
+}
+
+.dollar{
+    color: #FFF;
+   font-family: Lato;
+   font-size: 1.5rem;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   letter-spacing: -0.0
+}
+#support{
+    color: #646E7A;
+    font-family: Lato;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.00063rem;
+}
+
+
+
+#free-lancer{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.00063rem;
+}
+
+#divvv{
+    width: 19.5rem;
+    height: 50.6875rem;
+    flex-shrink: 0;
+    justify-content: center;
+    position: absolute;
+    left: 30rem;
+    top: 8.5rem;
+    left: 48.4rem;
+    border-radius: 0rem 0.375rem 0.375rem 0rem;
+    background: #1179bf
+}
+
+#renew{
+    height: 3rem;
+    width: 14.3125rem;
+    color: #FFF;
+   font-family: Lato;
+   font-size: 1rem;
+   font-style: italic;
+   font-weight: 400;
+   line-height: 1.5rem; /* 150% */
+   letter-spacing: -0.0005rem;
+
+}
+
+#yearly{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 3.75rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: -0.00094rem;
+}
+/*rectangle{
+    width: 84.875rem;
+    height: 0.125rem;
+    flex-shrink: 0;
+    background: #E0E6EA;
+}
+*/
+#image{
+    width: 12.5rem;
+    height: 2.4375rem;
+    flex-shrink: 0;
+    top: 0;
+
+}
+
+
+.margintop{
+    margin-top: 2rem;
+    display: flex;
+    position: absolute;
+    right: 0;
+    top: -0;
+    
+    padding: 20px;
+}
+#margin-top{
+    display: inline-block;
+    text-align: center;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#margin-topp{
+    display: inline-block;
+    top: -20rem;
+    text-align: center;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#margin-toppp{
+    display: inline-block;
+    text-align: center;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.para{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem; /* 150% */
+    letter-spacing: -0.0005rem;
+}
+
+#para1{
+    width: 14.1875rem;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 1.125rem;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.5rem; /* 133.333% */
+    letter-spacing: -0.00056rem;
+}
+
+#year{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 1.125rem;
+    font-style:  italic;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.00094rem;
+}
+
+#put-them{
+    display: inline-block;
+}
+
+#sites{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.0005rem;
+
+}
+
+#agency{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.0005rem;
+    text-decoration: underline;
+}
+
+.thin-rectangle{
+    width: 14rem;
+    height: 0.125rem;
+    flex-shrink: 0;
+    opacity: 0.2005;
+    background: #FFF
+}
+
+.endidng{
+    color: #636B6F;
+    text-align: center;
+    font-family: Lato;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.rectangle-thin{
+    width: 36.25rem;
+    height: 0.125rem;
+    flex-shrink: 0;
+    background: #F5F7FA;
+}
